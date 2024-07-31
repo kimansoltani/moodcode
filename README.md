@@ -1,0 +1,2 @@
+# moodcode
+Repository for curse
